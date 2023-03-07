@@ -1,0 +1,180 @@
+AppleTrees = {
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(224.0111, 6523.6496, 31.3488),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(233.4463, 6524.9463, 31.2423),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(242.8530, 6526.2943, 31.1194),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(251.8434, 6527.2734, 30.9697),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(261.4966, 6527.6738, 30.7516),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(270.5160, 6530.5913, 30.5140),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(280.3726, 6530.8213, 30.2113),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(281.3847, 6518.7593, 30.1759),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(272.5428, 6519.0347, 30.4537),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(262.3057, 6516.3647, 30.7270),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(253.5471, 6513.8364, 30.9344),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(244.7999, 6515.2314, 31.0955),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(234.4441, 6512.3140, 31.2421),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(225.9627, 6511.3428, 31.3348),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(217.9120, 6510.0156, 31.4044),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(208.5137, 6509.5146, 31.4737),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(199.5782, 6508.6895, 31.5093),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(185.1954, 6498.0049, 31.5402),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(193.9419, 6497.1230, 31.5254),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(201.6348, 6497.0942, 31.4752),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(209.8630, 6498.1689, 31.4596),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(220.0066, 6499.3047, 31.3878),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(227.7547, 6501.3613, 31.3186),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(236.6761, 6501.9258, 31.2113),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(246.7421, 6502.8467, 31.0598),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(255.9491, 6503.5439, 30.8818),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(263.8873, 6506.1631, 30.6918),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(273.5343, 6507.3608, 30.4267),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+    {
+        name = math.random(1, 10000000000),
+        coords = vec3(282.0461, 6506.5659, 30.1485),
+        heading = 0,
+        size = vec3(1, 1, 2),
+    },
+}
