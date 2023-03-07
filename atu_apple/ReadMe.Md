@@ -1,7 +1,7 @@
 
 
 # About
-Atu-applejob is a ***paid*** Apple picking resource. 
+
 *** Here is step by step how to do that job:**
 1. Drive to the farm
 2. Use target to play minigame
